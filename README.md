@@ -26,6 +26,8 @@ By the end of this Specialization, you will be ready to design NLP applications 
 
 ## There are 4 Courses in this Specialization
 
+<img width="886" alt="Screenshot 2025-04-04 at 13 58 52" src="https://github.com/user-attachments/assets/36dc2f7f-3724-447f-9c34-6626a9ecd4f8" />
+
 
 ### COURSE 1
 ### Natural Language Processing with Classification and Vector Spaces
